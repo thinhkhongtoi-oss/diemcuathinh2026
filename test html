@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> giới thiệu về hưng  thịnh</title>
+    </head>
+    <body>
+        <div>
+            <h1>giới thiệu bản thân</h1>
+            <h2>tên: Lý hưng Thinh</h2>
+             <h2> sinh nhật </h2>
+             <p>ngày 31 tháng 10 năm 2009 </p>
+            <h2>sở thích </h2>
+            <p>viết code web</p>
+        
+             <hr>
+            <h1>năm học</h1>
+        <h2> 2026 lớp 12 </h2>
+    <table border="1">
+        <tr> <th>toán</th> <th>văn </th> <th>lý</th> <th> anh</th> <th>sử</th> <th>tin</th> <th>hóa</th> <th> sinh</th></tr>
+        <tr> <td> 8,3</td> <td>5,8</td> <td>7,8</td> <td>6.8</td> <td> 5,5</td> <td>8,8</td> <td> 8,0</td> <td> 5,3</td></tr>
+    </table>
+    
+    <a href="DIEM KIEM TRA GIỮA KỲ 1 26-27.xls">xem điểm tại đây</a>
+    <p>với lớp 12 số báo danh 960116 lý hưng thịnh</p>
+    <h1><strong>có thể có sai xót !</strong> </h1>
+    <h2><strong> thịnh chỉ thi toán lý tin</strong></h2>
+    <h1>còn không mau thưởng </h1>
+    <img src="Screenshot 2026-11-14 131117.png" alt="ít thì 100">
+
+    </div>
+    </body>
+</html>
